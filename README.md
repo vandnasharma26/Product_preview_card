@@ -24,13 +24,13 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-
+![challengem1](https://user-images.githubusercontent.com/86317804/200110683-c7072fa8-e2c9-4994-b52a-7427ac148ae5.png)
+![challengem2](https://user-images.githubusercontent.com/86317804/200110687-460a99c3-c9d5-41eb-8469-f77f982a1b99.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live URL: [live site](https://your-live-site-url.com)
+- Solution URL: [solution URL][(https://your-solution-url.com](https://github.com/vandnasharma26/Product_preview_card/edit/main))
 
 ## My process
 
