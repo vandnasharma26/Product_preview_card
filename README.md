@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Live URL: [live site](https://your-live-site-url.com)
-- Solution URL: [solution URL][(https://your-solution-url.com](https://github.com/vandnasharma26/Product_preview_card/edit/main))
+- Live URL: [live site](https://vandnasharma26.github.io/Product_preview_card/)
+- Solution URL: [solution URL](https://github.com/vandnasharma26/Product_preview_card/edit/main))
 
 ## My process
 
